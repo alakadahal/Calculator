@@ -1,2 +1,3 @@
 # Calculator
-Simple functional calculator 
+Simple functional calculator using html, css and javascript.
+
